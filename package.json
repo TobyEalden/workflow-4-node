@@ -12,7 +12,6 @@
   "main": "./lib",
   "scripts": {
     "test": "mocha tests",
-    "test-es5": "mocha tests --old",
     "compile": "gulp"
   },
   "engines": [
